@@ -1,0 +1,10 @@
+# Copy this file to local.properties and fill in secrets (do NOT commit local.properties)
+# Example for XonProvider
+XON_API_KEY=your_xon_api_key_here
+
+# Example for MovieBoxProviderIN (if needed)
+MOVIEBOX_SECRET_DEFAULT=base64_or_secret_here
+MOVIEBOX_SECRET_ALT=base64_or_secret_here
+
+# Netflix provider token (optional) - use environment variable NETFLIX_USER_TOKEN or this property
+# netflix.user.token=your_netflix_user_token_here
