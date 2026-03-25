@@ -14,5 +14,6 @@ class KuramanimeProviderPlugin: Plugin() {
         registerExtractorAPI(Streamhide())
         registerExtractorAPI(Kuramadrive())
         registerExtractorAPI(Lbx())
+        registerExtractorAPI(Sunrong())
     }
 }
