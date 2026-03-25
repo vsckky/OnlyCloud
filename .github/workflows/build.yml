@@ -88,8 +88,8 @@ jobs:
 
       - name: Move
         run: |
-          rm $GITHUB_WORKSPACE/builds/**/build/*.cs3 || true
-          cp $GITHUB_WORKSPACE/builds/extensi/ $GITHUB_WORKSPACE/builds
+          rm $GITHUB_WORKSPACE/builds/.cs3 || true
+          cp $GITHUB_WORKSPACE/builds/extensi $GITHUB_WORKSPACE/builds
 
       - name: Push builds
         run: |
