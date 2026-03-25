@@ -1,7 +1,4 @@
-permissions:
-  contents: write
-
-name: Build cs.3
+name: Build
 
 # https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions#concurrency
 concurrency:
@@ -13,7 +10,6 @@ on:
     branches:
       # choose your default branch
       - main
-      - builds
     paths-ignore:
       - "*.md"
 
@@ -29,6 +25,7 @@ jobs:
       - name: Checkout builds
         uses: actions/checkout@v4.2.2
         with:
+          ref: "builds"
           path: "builds"
 
       - name: Clean old builds
