@@ -29,6 +29,13 @@ class Samehadaku : MainAPI() {
 
     override val mainPage = mainPageOf(
         "$mainUrl/page/" to "Episode Terbaru",
+        "daftar-anime-2/?title=&status=&type=&order=title&genre=romance &page=" to "romance",
+        "daftar-anime-2/?title=&status=&type=&order=title&genre=harem&page=" to "harem",
+        "daftar-anime-2/?title=&status=&type=&order=title&genre=slice-of-life&page=" to "slice of life",
+        "daftar-anime-2/?title=&status=&type=&order=title&genre=school &page=" to "school",
+        "daftar-anime-2/?title=&status=&type=&order=title&genre=ecchi&page=" to "ecchi",
+        "daftar-anime-2/?title=&status=&type=&order=title&genre=fantasy &page=" to "fantasy",
+        "daftar-anime-2/?title=&status=&type=&order=title&genre=reincarnation&page=" to "reincarnation",
         "daftar-anime-2/?title=&status=&type=&order=title&genre=isekai&page=" to "isekai",
         "daftar-anime-2/?title=&status=&type=TV&order=popular&page=" to "TV Populer",
         "daftar-anime-2/?title=&status=&type=OVA&order=title&page=" to "OVA",
