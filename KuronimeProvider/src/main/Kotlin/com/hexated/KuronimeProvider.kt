@@ -311,5 +311,4 @@ class KuronimeProvider : MainAPI() {
     data class Search(
         @JsonProperty("anime") var anime: ArrayList<Anime> = arrayListOf()
     )
-
 }
