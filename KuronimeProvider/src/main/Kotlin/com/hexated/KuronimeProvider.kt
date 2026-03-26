@@ -55,9 +55,6 @@ class KuronimeProvider : MainAPI() {
         "$mainUrl/page/" to "New Episodes",
         "$mainUrl/popular-anime/page/" to "Popular Anime",
         "$mainUrl/movies/page/" to "Movies",
-        "$mainUrl/genres/donghua/page/" to "Donghua",
-        "$mainUrl/genres/romance/page/" to "romance",
-        "$mainUrl/live-action/page/" to "Live Action",
     )
 
     override suspend fun getMainPage(
