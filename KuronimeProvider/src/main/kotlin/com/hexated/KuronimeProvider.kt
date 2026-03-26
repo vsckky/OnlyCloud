@@ -79,6 +79,8 @@ class KuronimeProvider : MainAPI() {
         } else {
             var title = uri.substringAfter("$mainUrl/")
             title = when {
+                (title.contains("-episode")) && !(title.contains("-movie")) -> title.substringBefore(
+                    "-episode"
                 (title.contains("-episode")) && !(title.contains("-movie")) -> Regex("nonton-(.+)-episode").find(
                     title
                 )?.groupValues?.get(1).toString()
@@ -90,7 +92,7 @@ class KuronimeProvider : MainAPI() {
                 else -> title
             }
 
-            "$mainUrl/$title"
+            "$mainUrl/anime/$title"
         }
     }
 
