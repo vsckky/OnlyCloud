@@ -22,7 +22,7 @@ import java.net.URI
 import java.util.ArrayList
 
 class KuronimeProvider : MainAPI() {
-    override var mainUrl = "https://kuronime.sbs"
+    override var mainUrl = "https://kuronime.moe"
     private var animekuUrl = "https://animeku.org"
     override var name = "Kuronime"
     override val hasQuickSearch = true
@@ -55,6 +55,8 @@ class KuronimeProvider : MainAPI() {
         "$mainUrl/page/" to "New Episodes",
         "$mainUrl/popular-anime/page/" to "Popular Anime",
         "$mainUrl/movies/page/" to "Movies",
+//        "$mainUrl/genres/donghua/page/" to "Donghua",
+//        "$mainUrl/live-action/page/" to "Live Action",
     )
 
     override suspend fun getMainPage(
@@ -311,4 +313,5 @@ class KuronimeProvider : MainAPI() {
     data class Search(
         @JsonProperty("anime") var anime: ArrayList<Anime> = arrayListOf()
     )
+
 }
