@@ -9,7 +9,7 @@
 3. Klik tombol "Tambahkan Repositori".
 4. Masukkan URL repositori vsc:
 ```html
-https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/repo.json
+https://raw.githubusercontent.com/vsckky/OnlyCloud/master/repo.json
 ``` 
 5. Klik "Tambahkan".
 6. Ekstensi yang tersedia akan muncul di daftar.
