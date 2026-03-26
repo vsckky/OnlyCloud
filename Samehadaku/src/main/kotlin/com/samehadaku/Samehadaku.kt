@@ -16,6 +16,7 @@ class Samehadaku : MainAPI() {
     }
 
     override var mainUrl = "https://v1.samehadaku.how"
+    private var animekuUrl = "https://animeku.org"
     override var name = "Samehadaku"
     override var lang = "id"
     override val hasMainPage = true
@@ -29,17 +30,17 @@ class Samehadaku : MainAPI() {
 
     override val mainPage = mainPageOf(
         "$mainUrl/page/" to "Episode Terbaru",
-        "daftar-batch/page/" to "daftar lengkap",
+        "daftar-batch/page/" to "Daftar Lengkap",
         "daftar-anime-2/?title=&status=Currently+Airing&type=&order=title&page=" to "Ongoing",
-        "daftar-anime-2/?title=&status=Finished+Airing&type=&order=title&page=" to "completed",
-        "daftar-anime-2/?title=&status=&type=&order=title&genre=romance &page=" to "romance",
-        "daftar-anime-2/?title=&status=&type=&order=title&genre=harem&page=" to "harem",
-        "daftar-anime-2/?title=&status=&type=&order=title&genre=slice-of-life&page=" to "slice of life",
-        "daftar-anime-2/?title=&status=&type=&order=title&genre=school &page=" to "school",
-        "daftar-anime-2/?title=&status=&type=&order=title&genre=ecchi&page=" to "ecchi",
-        "daftar-anime-2/?title=&status=&type=&order=title&genre=fantasy &page=" to "fantasy",
-        "daftar-anime-2/?title=&status=&type=&order=title&genre=reincarnation&page=" to "reincarnation",
-        "daftar-anime-2/?title=&status=&type=&order=title&genre=isekai&page=" to "isekai",
+        "daftar-anime-2/?title=&status=Finished+Airing&type=&order=title&page=" to "Completed",
+        "daftar-anime-2/?title=&status=&type=&order=title&genre=romance &page=" to "Romance",
+        "daftar-anime-2/?title=&status=&type=&order=title&genre=harem&page=" to "Harem",
+        "daftar-anime-2/?title=&status=&type=&order=title&genre=slice-of-life&page=" to "Slice of life",
+        "daftar-anime-2/?title=&status=&type=&order=title&genre=school &page=" to "School",
+        "daftar-anime-2/?title=&status=&type=&order=title&genre=ecchi&page=" to "Ecchi",
+        "daftar-anime-2/?title=&status=&type=&order=title&genre=fantasy &page=" to "Fantasy",
+        "daftar-anime-2/?title=&status=&type=&order=title&genre=reincarnation&page=" to "Reincarnation",
+        "daftar-anime-2/?title=&status=&type=&order=title&genre=isekai&page=" to "Isekai",
         "daftar-anime-2/?title=&status=&type=TV&order=popular&page=" to "TV Populer",
         "daftar-anime-2/?title=&status=&type=OVA&order=title&page=" to "OVA",
         "daftar-anime-2/?title=&status=&type=Movie&order=title&page=" to "Movie"
