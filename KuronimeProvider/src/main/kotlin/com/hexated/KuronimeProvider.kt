@@ -90,7 +90,7 @@ class KuronimeProvider : MainAPI() {
                 else -> title
             }
 
-            "$mainUrl/anime/$title"
+            "$mainUrl/$title"
         }
     }
 
