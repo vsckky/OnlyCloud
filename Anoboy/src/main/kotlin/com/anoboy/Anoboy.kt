@@ -46,7 +46,7 @@ class Anoboy : MainAPI() {
         "anime/ongoing/" to "Ongoing",
         "hentai/" to "Hentai",
         "harem/" to "Harem",
-        "ecchi" to "Ecchi"
+        "ecchi/" to "Ecchi"
         "action/" to "Action",
         "adventure/" to "Adventure",
         "comedy/" to "Comedy",
