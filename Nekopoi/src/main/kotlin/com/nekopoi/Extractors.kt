@@ -8,7 +8,7 @@ import com.lagradost.cloudstream3.utils.newExtractorLink
 
 open class ZippyShare : ExtractorApi() {
     override val name = "ZippyShare"
-    override val mainUrl = "https://zippysha.re"
+    override val mainUrl = "https://zippyshare.day"
     override val requiresReferer = true
 
     override suspend fun getUrl(
