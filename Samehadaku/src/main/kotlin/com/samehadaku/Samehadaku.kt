@@ -17,7 +17,7 @@ class Samehadaku : MainAPI() {
 
     override var mainUrl = "https://v1.samehadaku.how"
     private var animekuUrl = "https://animeku.org"
-    override var name = "Samehadaku"
+    override var name = "Samehadaku🌐"
     override var lang = "id"
     override val hasMainPage = true
     override val hasDownloadSupport = true
