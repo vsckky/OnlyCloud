@@ -1,0 +1,9 @@
+{
+    "name": "vsc",
+    "description": "Cloudstream extensions collection",
+    "iconUrl": "https://i.ibb.co.com/MkGZD7pP/modegalau657-lgmt.png",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/plugins.json"
+    ]
+}

@@ -1,0 +1,334 @@
+[
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=%size%",
+        "fileHash": "sha256-30a4f47da9e5d9d9bbe0e81fff27a90062d34873e094fb83efccede799f78e6a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/vsckky/OnlyCloud",
+        "fileSize": 36359,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "vsc"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 25,
+        "internalName": "AnichinMoe",
+        "description": "Anichin Moe",
+        "url": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/AnichinMoe.cs3",
+        "name": "AnichinMoe"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v1.animasu.top&size=%size%",
+        "fileHash": "sha256-0223de3f9d60d7af26df5bcd1230385edc570ab267d12c9d6236fc511868d033",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/vsckky/OnlyCloud",
+        "fileSize": 28712,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "vsc"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "Animasu",
+        "url": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/Animasu.cs3",
+        "name": "Animasu"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeidhentai.com&sz=%size%",
+        "fileHash": "sha256-9f19bcee2058caf747dd3338a71209a912f098102f57bfbf266cb9ed4dfcf0ab",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/vsckky/OnlyCloud",
+        "fileSize": 12272,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "vsc"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 4,
+        "internalName": "AnimeIdHentai",
+        "url": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/AnimeIdHentai.cs3",
+        "name": "AnimeIdHentai"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://154.26.137.28&size=%size%",
+        "fileHash": "sha256-eb42b824dc4ff46bb68677ce00fd780f86a57e48790a374078510e78395a1a6f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/vsckky/OnlyCloud",
+        "fileSize": 57642,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "vsc"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "AnimeSailProvider",
+        "url": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/AnimeSailProvider.cs3",
+        "name": "AnimeSailProvider"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://anoboy.be&size=%size%",
+        "fileHash": "sha256-7b4d4d0c304e925123262a6e7cb5b60e5a8fb76f4618975b0260724f2233580c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/vsckky/OnlyCloud",
+        "fileSize": 58235,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "vsc"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 3,
+        "internalName": "Anoboy",
+        "description": "Anoboy",
+        "url": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/Anoboy.cs3",
+        "name": "Anoboy"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://free-reels.com&size=%size%",
+        "fileHash": "sha256-7478f523a6c93fa7372ffe5e06bbef287934a6f453a2ad7656c9bbeca59e2199",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/vsckky/OnlyCloud",
+        "fileSize": 70234,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "vsc"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 2,
+        "internalName": "FreeReels",
+        "description": "FreeReels",
+        "url": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/FreeReels.cs3",
+        "name": "FreeReels"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=jav.guru&sz=%size%",
+        "fileHash": "sha256-f7e465d459adf7e7648e6184a8c2eda86cfd98a241ca13d8a548948ac8e0a89f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/vsckky/OnlyCloud",
+        "fileSize": 8273,
+        "status": 3,
+        "language": "en",
+        "authors": [
+            "vsckky"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 6,
+        "internalName": "JavGuru",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/JavGuru.cs3",
+        "name": "JavGuru"
+    },
+    {
+        "iconUrl": "https://javhd.today/logo/javhd1.png",
+        "fileHash": "sha256-9d56bf6a197692ede1fb6bb2c97d8ff1db85fa0b1d43f5527f14c0ce9cc5b6c1",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/vsckky/OnlyCloud",
+        "fileSize": 17373,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "vsc"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 6,
+        "internalName": "JAVHd",
+        "url": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/JAVHd.cs3",
+        "name": "JAVHd"
+    },
+    {
+        "iconUrl": "https://javtiful.com/images/logo/new_jt_logo.png",
+        "fileHash": "sha256-9a2b287f9ad201da62c6a433b3a10bb94df59cfc4567c3587ed9136b367bc87a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/vsckky/OnlyCloud",
+        "fileSize": 12853,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "vsc"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "Javtiful",
+        "description": "Javtiful",
+        "url": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/Javtiful.cs3",
+        "name": "Javtiful"
+    },
+    {
+        "iconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAnFBMVEVHcEzq6ur39/f09PSIh4dxcXGztLP5+fnPz8/19fV9fXsAAAAhIR5lZWXNzc3d3dzHx8YuLiw1NTRKSkkNDQ17e3uCg4IoKCRxcXFQUE06OzecnJxDQ0Lf4N9iYmGWlpbAwL9cXFybnJSNjYzz8/M9PTump6VnaGVWV1cWFhXz9PNKSz1RUzVvcjedoVK7u7uGiUh3dnX///+lpaWLP+tsAAAANHRSTlMAAwknlJN2E1kQ7P//9VRFcP///f/A2f/6/P+3/2nt9UH9TsAz/6Lm//8e//349Yr30xfAm2Aq5gAAAQdJREFUeAFiGFyAkQmLIKA0ukpAIASAAIq5MWx3gN2t97+blP3pbO+j6fUHwx4hlu38muWCUs//hW5ASEijOEmz30p5MiQZirKq3c53vQZoGUc8clFaXzhuAZTilgKTnh5c3vhi0FZvOoMIpZBp5wqDBeqcLVfrAjKRxiLQ2OI9i416bJjCLf/AXaoeqUbSPGF/eCIMhvQxjOIItAZPGk+yzllQigioN+9orWQXewiRianGRuE8wXuiQj9nnTfc0E2qcKHxonazVwmJ4jqu20UMpKZPfjVTWcRmiG2LR+KxQicvYFJUeGapsHNbTyaeNxE37q5W3kRlfTN7vH3kalnW1bxb5I/cAQbVHdwd/OHrAAAAAElFTkSuQmCC",
+        "fileHash": "sha256-06a13fd94f3d1de938e2f06b2d6b4876c258cfd308c472c07ea8a5aec1bc8f4f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/vsckky/OnlyCloud",
+        "fileSize": 26513,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "vsc"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 23,
+        "internalName": "KuronimeProvider",
+        "url": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/KuronimeProvider.cs3",
+        "name": "KuronimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
+        "jarFileSize": 97761,
+        "fileHash": "sha256-2b2de1fc9ea516fb6a232bb2353132a0b2c73308f6aaeeea1eb50286dd5275ee",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/vsckky/OnlyCloud",
+        "fileSize": 26920,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "vsc"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 12,
+        "internalName": "LayarKacaProvider",
+        "jarUrl": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/LayarKacaProvider.jar",
+        "url": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/LayarKacaProvider.cs3",
+        "name": "LayarKacaProvider",
+        "jarHash": "sha256-358558cf38991ed20d5e4c03ae1728a686fd56cd3cd91b412f38075278bb1e6e"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=nekopoi.care&sz=%size%",
+        "fileHash": "sha256-95b6666bdb91fe472ce3d567e8ea133ad0e3df0d1bf17cf934d701515fa73140",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/vsckky/OnlyCloud",
+        "fileSize": 27111,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "vsc"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 6,
+        "internalName": "Nekopoi",
+        "url": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/Nekopoi.cs3",
+        "name": "Nekopoi"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anime.oploverz.ac&size=%size%",
+        "fileHash": "sha256-57ee1eb1356bc2cf54a8d82d85498964c30e018dc51cacb11c33f989805c2b07",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/vsckky/OnlyCloud",
+        "fileSize": 26823,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "vsc"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 34,
+        "internalName": "OploverzProvider",
+        "url": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/OploverzProvider.cs3",
+        "name": "OploverzProvider"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://otakudesu.cloud&size=%size%",
+        "fileHash": "sha256-dc4a1149ef93fb847d80c4a72c311bc7c2b998894c635daa19d0c0425d253466",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/vsckky/OnlyCloud",
+        "fileSize": 28378,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "vsc"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "OtakudesuProvider",
+        "url": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/OtakudesuProvider.cs3",
+        "name": "OtakudesuProvider"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v1.samehadaku.how&size=%size%",
+        "fileHash": "sha256-2e3be3091c3bf7104fb033b7f755cbeab90696239ca03fa198fd892ee76c9465",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/vsckky/OnlyCloud",
+        "fileSize": 21577,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "vsc"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 26,
+        "internalName": "Samehadaku",
+        "url": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/Samehadaku.cs3",
+        "name": "Samehadaku"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=supjav.com&sz=%size%",
+        "fileHash": "sha256-7bba2aa32d6d05b86c87030182811f22204e50e309407d49afdbe503bbf8e411",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/vsckky/OnlyCloud",
+        "fileSize": 17120,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "vsc"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 7,
+        "internalName": "SuperJav",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/vsckky/OnlyCloud/builds/SuperJav.cs3",
+        "name": "SuperJav"
+    }
+]
