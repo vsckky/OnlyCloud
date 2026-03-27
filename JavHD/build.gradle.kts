@@ -20,7 +20,7 @@
     // List of video source types. Users are able to filter for extensions in a given category.
     // You can find a list of avaliable types here:
     // https://recloudstream.github.io/cloudstream/html/app/com.lagradost.cloudstream3/-tv-type/index.html
-    tvTypes = listOf("NSFW")
+//    tvTypes = listOf("NSFW")
 
 //    iconUrl = "https://www.google.com/s2/favicons?domain=javhd.icu&sz=%size%"
 
