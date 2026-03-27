@@ -44,10 +44,10 @@ class Anoboy : MainAPI() {
     override val mainPage = mainPageOf(
         "anime/" to "Baru Ditambahkan",
         "anime/ongoing/" to "Ongoing",
-        "action/" to "Action",
-        "hentai/" to Hentai",
-        "ecchi/" to "Ecchi",
+        "hentai/" to "Hentai",
         "harem/" to "Harem",
+        "ecchi" to "Ecchi"
+        "action/" to "Action",
         "adventure/" to "Adventure",
         "comedy/" to "Comedy",
         "drama/" to "Drama",
