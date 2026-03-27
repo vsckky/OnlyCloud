@@ -13,7 +13,7 @@ import org.jsoup.nodes.Element
 
 class Anoboy : MainAPI() {
     override var mainUrl = "https://ww1.anoboy.boo"
-    override var name = "Anoboy"
+    override var name = "Anoboy🌐"
     override val hasMainPage = true
     override var lang = "id"
 
@@ -45,6 +45,9 @@ class Anoboy : MainAPI() {
         "anime/" to "Baru Ditambahkan",
         "anime/ongoing/" to "Ongoing",
         "action/" to "Action",
+        "hentai/" to Hentai",
+        "ecchi/" to "Ecchi",
+        "harem/" to "Harem",
         "adventure/" to "Adventure",
         "comedy/" to "Comedy",
         "drama/" to "Drama",
