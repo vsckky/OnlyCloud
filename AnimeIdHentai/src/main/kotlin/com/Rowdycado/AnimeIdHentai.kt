@@ -97,10 +97,10 @@ class AnimeIdHentai : MainAPI() {
         callback: (ExtractorLink) -> Unit
     ): Boolean {
         val res = app.get(data).document
-        val iframe = res.selectFirst("div.embed > iframe")?.attr("src") ?: ""
-        val playerurl = extractplayer(iframe) ?: ""
-        val sourceurl = extractsource(playerurl) ?:""
-        val subtitle = extractsubtitles(playerurl) ?:""
+        val iframe = res.selectFirst("div.embed > iframe")?.attr("src") ?: "https://jwx.com"
+        val playerurl = extractplayer(iframe) ?: "https://animeidhentai.com"
+        val sourceurl = extractsource(playerurl) ?:"https://jwx.com"
+        val subtitle = extractsubtitles(playerurl) ?:"https://jwx.com"
         try {
             callback.invoke(
                 newExtractorLink(
