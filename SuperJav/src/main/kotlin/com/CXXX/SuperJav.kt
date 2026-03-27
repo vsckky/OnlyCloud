@@ -17,13 +17,14 @@ class SuperJav : MainAPI() {
     override val vpnStatus            = VPNStatus.MightBeNeeded
     val subtitleCatUrl = "https://www.subtitlecat.com"
     override val mainPage = mainPageOf(
-        "category/censored-jav" to "Censored Jav",
-        "category/english-subtitles" to "English Jav",
+        "category/censored-jav" to "Di sensor",
+        "category/uncensored-jav" to "Tidak Di Sensor",
+        "category/english-subtitles" to "Subtitel Inggris",
         "tag/4k" to "4K",
-        "tag/stepmother" to "Step Mother",
-        "tag/tits" to "Tits",
+        "tag/stepmother" to "Ibu Tiri",
+        "tag/tits" to "Payudara",
         "reducing-mosaic" to "Reducing Mosaic",
-        "tag/4k" to "",
+        "tag/mother" to "Ibu",
     )
 
     override suspend fun getMainPage(page: Int, request: MainPageRequest): HomePageResponse {
