@@ -6,11 +6,6 @@ import com.lagradost.cloudstream3.utils.ExtractorApi
 import com.lagradost.cloudstream3.utils.ExtractorLink
 import com.lagradost.cloudstream3.utils.newExtractorLink
 
-class Paistream : Streampai() {
-    override val name = "Paistream"
-    override val mainUrl = "https://paistream.my.id"
-}
-
 open class ZippyShare : ExtractorApi() {
     override val name = "ZippyShare"
     override val mainUrl = "https://zippysha.re"
