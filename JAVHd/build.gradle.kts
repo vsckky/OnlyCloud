@@ -14,5 +14,5 @@ cloudstream {
     **/
     status  = 1 // will be 3 if unspecified
     tvTypes = listOf("NSFW")
-    iconUrl = "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://javhd.today/&ved=2ahUKEwi65cGOzsCTAxUS4zgGHS3LAEQQFnoECCMQAQ&usg=AOvVaw3yXdE9sJT1JU0mawTvY3-W"
+    iconUrl = "https://javhd.today/logo/javhd1.png"
 }
