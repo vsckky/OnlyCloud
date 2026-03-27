@@ -12,7 +12,6 @@ class AnimeIdHentai : MainAPI() {
     override var name = "AnimeIdHentai"
     override val hasQuickSearch = false
     override val hasMainPage = true
-    override val lang = "id"
     override val supportedTypes = setOf(
         TvType.NSFW
     )
