@@ -17,7 +17,7 @@ class LayarKacaProvider : MainAPI() {
     private var seriesUrl = "https://series.lk21.de"
     private var searchurl= "https://gudangvape.com"
 
-    override var name = "LayarKaca"
+    override var name = "LayarKaca🌐"
     override val hasMainPage = true
     override var lang = "id"
     override val supportedTypes = setOf(
