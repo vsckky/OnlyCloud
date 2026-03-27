@@ -36,15 +36,15 @@ class JAVHDProvider : MainAPI() {
     override val vpnStatus            = VPNStatus.MightBeNeeded
     val subtitleCatUrl = "https://www.subtitlecat.com"
     override val mainPage = mainPageOf(
-            "/releaseday/" to "Release Day",
-            "/recent/" to "Latest Upadates",
-            "/popular/today/" to "Most View Today",
-            "/popular/week/" to "Most View Week",
-            "/jav-sub/" to "Jav Subbed",
-            "/jav-sub/popular/year/" to "Most Viewed Jav Subbed",
-            "/uncensored-jav/" to "Uncensored",
+            "/releaseday/" to "Hari Rilis",
+            "/recent/" to "Update Terbaru",
+            "/popular/today/" to "Paling Banyak Ditonton Hari Ini",
+            "/popular/week/" to "Paling Banyak Ditonton Minggu Ini",
+            "/jav-sub/" to "Subtitel Jepang",
+            "/jav-sub/popular/year/" to "Subtitel Jepang Paling Banyak Ditonton",
+            "/uncensored-jav/" to "Tidak Di Sensor",
             "/reducing-mosaic/" to "Reduced Mosaic",
-            "/amateur/" to "Amateur"
+            "/amateur/" to "Amatir"
         )
 
     override suspend fun getMainPage(page: Int, request: MainPageRequest): HomePageResponse {
