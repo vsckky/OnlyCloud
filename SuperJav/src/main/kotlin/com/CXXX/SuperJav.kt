@@ -24,6 +24,7 @@ class SuperJav : MainAPI() {
         "popular?sort=month" to "Populer Bulan Ini",
         "tag/mother" to "Ibu",
         "tag/stepmother" to "Ibu Tiri",
+        "tag/widow" to "Janda",
         "tag/adopted-daughter" to "Anak Angkat",
         "tag/bitch" to "Pelacur",
         "tag/tits" to "Payudara",
