@@ -3,17 +3,8 @@ package com.vsckky
 import com.fasterxml.jackson.annotation.JsonProperty
 import com.lagradost.cloudstream3.SubtitleFile
 import com.lagradost.cloudstream3.*
-import com.lagradost.cloudstream3.extractors.DoodLaExtractor
 import com.lagradost.cloudstream3.utils.*
 
-class MyvidplayAz : DoodLaExtractor() {
-    override var name = "MyVidPlay"
-    override var mainUrl = "https://myvidplay.com"
-}
-
-class Doply : DoodLaExtractor() {
-    override var mainUrl = "https://doply.net"
-}
 open class Qiwi : ExtractorApi() {
     override val name = "Qiwi"
     override val mainUrl = "https://qiwi.gg"
