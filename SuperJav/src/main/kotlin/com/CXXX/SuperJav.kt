@@ -28,6 +28,7 @@ class SuperJav : MainAPI() {
         "tag/bitch" to "Pelacur",
         "tag/tits" to "Payudara",
         "tag/big-tits" to "Payudara Besar"
+        "tag/female-teacher" to "Guru Perempuan",
         "tag/bath" to "Mandi",
         "category/english-subtitles" to "Subtitel Inggris",
         "tag/4k" to "4K",
