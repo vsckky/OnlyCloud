@@ -20,12 +20,14 @@ class SuperJav : MainAPI() {
         "category/censored-jav" to "Di sensor",
         "category/uncensored-jav" to "Tidak Di Sensor",
         "popular?sort=day" to "Populer Hari Ini",
-        "category/english-subtitles" to "Subtitel Inggris",
-        "tag/4k" to "4K",
-        "tag/stepmother" to "Ibu Tiri",
-        "tag/tits" to "Payudara",
-        "reducing-mosaic" to "Reducing Mosaic",
+        "popular?sort=week" to "Populer Minggu Ini",
+        "popular?sort=month" to "Populer Bulan Ini",
         "tag/mother" to "Ibu",
+        "tag/stepmother" to "Ibu Tiri",
+        "category/english-subtitles" to "Subtitel Inggris",
+        "tag/tits" to "Payudara",
+        "tag/4k" to "4K",
+        "reducing-mosaic" to "Reducing Mosaic",
     )
 
     override suspend fun getMainPage(page: Int, request: MainPageRequest): HomePageResponse {
