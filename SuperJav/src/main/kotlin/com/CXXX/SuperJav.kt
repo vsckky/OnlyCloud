@@ -26,6 +26,7 @@ class SuperJav : MainAPI() {
         "tag/stepmother" to "Ibu Tiri",
         "tag/adopted-daughter" to "Anak Angkat",
         "tag/tits" to "Payudara",
+        "tag/bath" to "Mandi",
         "category/english-subtitles" to "Subtitel Inggris",
         "tag/4k" to "4K",
         "reducing-mosaic" to "Reducing Mosaic",
