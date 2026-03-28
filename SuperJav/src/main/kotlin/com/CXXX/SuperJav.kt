@@ -24,8 +24,8 @@ class SuperJav : MainAPI() {
         "popular?sort=month" to "Populer Bulan Ini",
         "tag/mother" to "Ibu",
         "tag/stepmother" to "Ibu Tiri",
-        "category/english-subtitles" to "Subtitel Inggris",
         "tag/tits" to "Payudara",
+        "category/english-subtitles" to "Subtitel Inggris",
         "tag/4k" to "4K",
         "reducing-mosaic" to "Reducing Mosaic",
     )
