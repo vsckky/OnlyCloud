@@ -11,7 +11,7 @@ import org.jsoup.nodes.Document
 
 
 class OploverzProvider : MainAPI() {
-    override var mainUrl = "https://anime.oploverz.ac"
+    override var mainUrl = "https://coba.oploverz.ltd"
     private val backAPI = "https://backapi.oploverz.ac"
     override var name = "Oploverz🌐"
     override val hasMainPage = true
@@ -42,7 +42,8 @@ class OploverzProvider : MainAPI() {
     }
 
     override val mainPage = mainPageOf(
-        "latest" to "Rilis Terbaru",
+        "latest" to "Baru Rilis",
+        "series?type=TV&genre=fantasy" to "Fantasy",
     )
 
     override suspend fun getMainPage(
