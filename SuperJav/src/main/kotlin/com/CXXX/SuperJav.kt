@@ -26,6 +26,7 @@ class SuperJav : MainAPI() {
         "tag/adopted-daughter" to "Anak Angkat",
         "tag/mother" to "Ibu",
         "tag/stepmother" to "Ibu Tiri",
+        "tag/aunt" to "Bibi",
         "tag/widow" to "Janda",
         "tag/submissive-woman" to "Wanita Yang Patuh",
         "tag/bitch" to "Pelacur",
