@@ -10,7 +10,7 @@ import com.lagradost.cloudstream3.extractors.VidhideExtractor
 
 class SuperJav : MainAPI() {
     override var mainUrl              = "https://supjav.com"
-    override var name                 = "SupJav"
+    override var name                 = "SupJav🌐"
     override val hasMainPage          = true
     override var lang                 = "id"
     override val supportedTypes       = setOf(TvType.NSFW)
@@ -19,6 +19,7 @@ class SuperJav : MainAPI() {
     override val mainPage = mainPageOf(
         "category/censored-jav" to "Di sensor",
         "category/uncensored-jav" to "Tidak Di Sensor",
+        "popular?sort=day" to "Populer Hari Ini",
         "category/english-subtitles" to "Subtitel Inggris",
         "tag/4k" to "4K",
         "tag/stepmother" to "Ibu Tiri",
