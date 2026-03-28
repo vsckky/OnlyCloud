@@ -4,11 +4,11 @@ import com.fasterxml.jackson.annotation.JsonProperty
 import com.lagradost.cloudstream3.SubtitleFile
 import com.lagradost.cloudstream3.*
 import com.lagradost.cloudstream3.extractors.DoodLaExtractor
-import com.lagradost.cloudstream3.extractors.Mpv
 import com.lagradost.cloudstream3.utils.*
 
-class Mp4Upload2() : Mpv() {
-    override var mainUrl = "https://mp4upload.com"
+class MyvidplayAz : DoodLaExtractor() {
+    override var name = "MyVidPlay"
+    override var mainUrl = "https://myvidplay.com"
 }
 
 class Doply : DoodLaExtractor() {
