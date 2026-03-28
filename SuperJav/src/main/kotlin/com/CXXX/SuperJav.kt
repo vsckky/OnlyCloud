@@ -28,7 +28,7 @@ class SuperJav : MainAPI() {
         "tag/adopted-daughter" to "Anak Angkat",
         "tag/bitch" to "Pelacur",
         "tag/tits" to "Payudara",
-        "tag/big-tits" to "Payudara Besar"
+        "tag/big-tits" to "Payudara Besar",
         "tag/female-teacher" to "Guru Perempuan",
         "tag/tsundere" to "Tsundere",
         "tag/bath" to "Mandi",
