@@ -3,10 +3,11 @@ package com.vsckky
 import com.fasterxml.jackson.annotation.JsonProperty
 import com.lagradost.cloudstream3.SubtitleFile
 import com.lagradost.cloudstream3.utils.ExtractorApi
+import com.lagradost.cloudstream3.extractors.Linkbox
 import com.lagradost.cloudstream3.*
 import com.lagradost.cloudstream3.utils.*
 
-class boxqw : ExtractorApi() {
+class box : Linkbox() {
     override var mainUrl = "https://linkbox.to"
 
 open class Qiwi : ExtractorApi() {
