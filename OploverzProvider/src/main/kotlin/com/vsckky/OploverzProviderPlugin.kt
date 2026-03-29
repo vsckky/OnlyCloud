@@ -13,5 +13,6 @@ class OploverzProviderPlugin: Plugin() {
         registerExtractorAPI(Qiwi())
         registerExtractorAPI(Filedon())
         registerExtractorAPI(Buzzheavier())
+        registerExtractorAPI(Box())
     }
 }
