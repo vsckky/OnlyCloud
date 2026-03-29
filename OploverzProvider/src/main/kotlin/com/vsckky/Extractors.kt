@@ -6,6 +6,9 @@ import com.lagradost.cloudstream3.utils.ExtractorApi
 import com.lagradost.cloudstream3.*
 import com.lagradost.cloudstream3.utils.*
 
+class linkbox1 : linkbox() {
+    override var mainUrl = "https://linkbox.to"
+
 open class Qiwi : ExtractorApi() {
     override val name = "Qiwi"
     override val mainUrl = "https://qiwi.gg"
