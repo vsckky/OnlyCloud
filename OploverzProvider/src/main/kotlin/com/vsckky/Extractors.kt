@@ -7,7 +7,7 @@ import com.lagradost.cloudstream3.extractors.Linkbox
 import com.lagradost.cloudstream3.*
 import com.lagradost.cloudstream3.utils.*
 
-class box : Linkbox() {
+class Box : Linkbox() {
     override var mainUrl = "https://linkbox.to"
 
 open class Qiwi : ExtractorApi() {
