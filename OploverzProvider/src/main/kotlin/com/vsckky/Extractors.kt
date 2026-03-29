@@ -6,7 +6,7 @@ import com.lagradost.cloudstream3.utils.ExtractorApi
 import com.lagradost.cloudstream3.*
 import com.lagradost.cloudstream3.utils.*
 
-class Box : ExtractorApi() {
+open class Box : ExtractorApi() {
     override val name = "Linkbox"
     override var mainUrl = "https://linkbox.to"
 
