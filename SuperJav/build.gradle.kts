@@ -3,7 +3,7 @@ version = 7
 cloudstream {
     authors     = listOf("vsc")
     language    = "id"
-    description = "SuperJav"
+    description = ""
 
     /**
      * Status int as the following:
