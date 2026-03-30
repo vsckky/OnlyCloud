@@ -12,6 +12,6 @@ class SuperJavPlugin: Plugin() {
         registerExtractorAPI(EmturbovidExtractor())
         registerExtractorAPI(StreamTape())
         registerExtractorAPI(watchadsontape())
-        registerExtractorAPI(fc2stream())
+        registerExtractorAPI(StreamHG())
     }
 }
