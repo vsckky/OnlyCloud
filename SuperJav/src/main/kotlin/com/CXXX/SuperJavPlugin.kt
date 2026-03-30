@@ -11,7 +11,7 @@ class SuperJavPlugin: Plugin() {
         registerMainAPI(SuperJav())
         registerExtractorAPI(EmturbovidExtractor())
         registerExtractorAPI(StreamTape())
-        registerExtractorAPI(watchadsontape())
+        registerExtractorAPI(altaq())
         registerExtractorAPI(StreamHG())
     }
 }
