@@ -31,6 +31,7 @@ class SuperJav : MainAPI() {
         "tag/widow" to "Janda",
         "tag/pregnant-woman" to "Wanita Hamil",
         "tag/submissive-woman" to "Wanita Yang Patuh",
+        "tag/gal" to "Gal / Blonde",
         "tag/bitch" to "Pelacur",
         "tag/tits" to "Payudara",
         "tag/big-tits" to "Payudara Besar",
@@ -39,7 +40,7 @@ class SuperJav : MainAPI() {
         "tag/bath" to "Mandi",
         "tag/granny" to "Nenek",
         "category/english-subtitles" to "Subtitel Inggris",
-        "tag/4k" to "4K",
+        "tag/4k" to "HD 4K",
     )
 
     override suspend fun getMainPage(page: Int, request: MainPageRequest): HomePageResponse {
