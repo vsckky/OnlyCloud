@@ -150,7 +150,7 @@ class SuperJav : MainAPI() {
     }
 }
 
-class altaq : StreamTape() {
+class ATLAQ : StreamTape() {
     override var mainUrl = "https://watchadsontape.com"
     override var name = "StreamTape"
 }
