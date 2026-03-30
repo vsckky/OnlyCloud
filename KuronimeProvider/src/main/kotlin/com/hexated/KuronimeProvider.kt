@@ -73,26 +73,33 @@ class KuronimeProvider : MainAPI() {
         return newHomePageResponse(request.name, home)
     }
 
-    private fun getProperAnimeLink(uri: String): String {
-        return if (uri.contains("/anime/")) {
-            uri
-        } else {
-            var title = uri.substringAfter("$mainUrl/")
-            title = when {
-                (title.contains("-episode")) && !(title.contains("-movie")) -> Regex("nonton-(.+)-episode").find(
-                    title
-                )?.groupValues?.get(1).toString()
+private fun getProperAnimeLink(uri: String): String {
+    return if (uri.contains("/anime/")) {
+        uri
+    } else {
+        var title = uri.substringAfter("$mainUrl/")
 
-                (title.contains("-movie")) -> Regex("nonton-(.+)-movie").find(title)?.groupValues?.get(
-                    1
-                ).toString()
-
-                else -> title
+        title = when {
+            title.contains("-episode") && !title.contains("-movie") -> {
+                Regex("nonton-(.+?)-episode")
+                    .find(title)
+                    ?.groupValues?.getOrNull(1)
+                    ?: title
             }
 
-            "$mainUrl/anime/$title"
+            title.contains("-movie") -> {
+                Regex("nonton-(.+?)-movie")
+                    .find(title)
+                    ?.groupValues?.getOrNull(1)
+                    ?: title
+            }
+
+            else -> title
         }
+
+        "$mainUrl/anime/$title"
     }
+}
 
     private fun Element.toSearchResult(): AnimeSearchResponse {
         val href = getProperAnimeLink(fixUrlNull(this.selectFirst("a")?.attr("href")).toString())
