@@ -33,6 +33,7 @@ class Nekopoi : MainAPI() {
             "DropApk",
             "SendCm",
             "GoogleDrive",
+            "KrakenFiles",
         )
         const val mirroredHost = "https://www.mirrored.to"
 
