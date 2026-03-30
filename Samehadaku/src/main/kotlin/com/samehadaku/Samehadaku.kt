@@ -44,7 +44,7 @@ class Samehadaku : MainAPI() {
         "daftar-anime-2/?title=&status=&type=&order=title&genre=reincarnation&page=" to "Reincarnation",
         "daftar-anime-2/?title=&status=&type=&order=title&genre=isekai&page=" to "Isekai",
         "daftar-anime-2/?title=&status=&type=&order=title&genre=adventure&page=" to "Adventure",
-        "daftar-anime-2/?title=&status=&type=TV&order=popular&page=" to "TV Populer",
+        "daftar-anime-2/?title=&status=&type=TV&order=popular&page=" to "Anime Populer",
         "daftar-anime-2/?title=&status=&type=OVA&order=title&page=" to "OVA",
         "daftar-anime-2/?title=&status=&type=Movie&order=title&page=" to "Movie"
     )
