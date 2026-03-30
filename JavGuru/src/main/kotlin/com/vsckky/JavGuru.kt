@@ -9,7 +9,7 @@ class JavGuru : MainAPI() {
     private val DEV = "DevDebug"
     private val globaltvType = TvType.NSFW
 
-    override var name = "JavGuru🌐"
+    override var name = "JavGuru"
     override var mainUrl = "https://jav.guru"
     override val supportedTypes = setOf(TvType.NSFW)
     override val hasDownloadSupport = false
