@@ -17,6 +17,7 @@ class SuperJav : MainAPI() {
     override val vpnStatus            = VPNStatus.MightBeNeeded
     val subtitleCatUrl = "https://www.subtitlecat.com"
     override val mainPage = mainPageOf(
+//Daftar Bahasa Indonesia, By vsckky
         "reducing-mosaic" to "Daftar Lengkap",
         "category/censored-jav" to "Di sensor",
         "category/uncensored-jav" to "Tidak Di Sensor",
