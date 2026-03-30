@@ -184,7 +184,7 @@ open class EmturbovidExtractor : ExtractorApi() {
     }
 }
 
-class fc2stream: VidhideExtractor() {
+class StreamHG: VidhideExtractor() {
     override var mainUrl="https://fc2stream.tv"
     override val requiresReferer = false
 }
