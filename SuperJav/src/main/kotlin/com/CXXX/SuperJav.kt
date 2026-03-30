@@ -1,4 +1,4 @@
-package com.CXXX
+package com.vsckky
 
 import com.fasterxml.jackson.annotation.JsonProperty
 import com.lagradost.api.Log
@@ -28,6 +28,7 @@ class SuperJav : MainAPI() {
         "tag/stepmother" to "Ibu Tiri",
         "tag/aunt" to "Bibi",
         "tag/widow" to "Janda",
+        "tag/pregnant-woman" to "Wanita Hamil",
         "tag/submissive-woman" to "Wanita Yang Patuh",
         "tag/bitch" to "Pelacur",
         "tag/tits" to "Payudara",
@@ -35,6 +36,7 @@ class SuperJav : MainAPI() {
         "tag/female-teacher" to "Guru Perempuan",
         "tag/tsundere" to "Tsundere",
         "tag/bath" to "Mandi",
+        "tag/granny" to "Nenek",
         "category/english-subtitles" to "Subtitel Inggris",
         "tag/4k" to "4K",
     )
