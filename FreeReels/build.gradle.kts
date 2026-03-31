@@ -1,7 +1,7 @@
 version = 2
 
 cloudstream {
-    description = ""
+    description = "FreeReels"
     language = "id"
     authors = listOf("vsc")
 
