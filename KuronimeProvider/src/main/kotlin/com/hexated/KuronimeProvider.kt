@@ -97,7 +97,7 @@ private fun getProperAnimeLink(uri: String): String {
             else -> title
         }
 
-        "$mainUrl/$title"
+        "$mainUrl/anime/$title"
     }
 }
 
