@@ -45,7 +45,7 @@ subprojects {
 
     cloudstream {
     setRepo(System.getenv("GITHUB_REPOSITORY") ?: "https://github.com/vsckky/OnlyCloud")
-    authors = listOf("vsckky")
+    authors = listOf("nothing")
         }
 
 
